@@ -1,5 +1,6 @@
-Integer x;
-Integer y;
+Float = x;
+Float = y;
+
 
 y+x;
 y-x;
