@@ -1,4 +1,7 @@
-1+1
-1-1
-1*1
-1/1
+Integer x;
+Integery y;
+
+y+x;
+y-x;
+y*x;
+y/x;
