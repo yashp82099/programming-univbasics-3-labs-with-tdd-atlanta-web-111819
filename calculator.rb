@@ -1,5 +1,5 @@
 Integer x;
-Integery y;
+Integer y;
 
 y+x;
 y-x;
